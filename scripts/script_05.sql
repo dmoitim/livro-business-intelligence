@@ -1,5 +1,5 @@
 /*
- * Script 04
+ * Script 05
  *
  * Objetivo: comandos para criação da tabela de importação dos dados de venda
  */
