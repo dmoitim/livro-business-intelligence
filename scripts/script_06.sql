@@ -22,7 +22,8 @@ Create procedure [dbo].[Importa_Vendas] as
     with (
         FIRSTROW = 3,
         FIELDTERMINATOR = '|',
-        ROWTERMINATOR = '\n'
+        ROWTERMINATOR = '\n',
+        ERRORFILE = 'c:\Arquivos\error.log'
     )
 
     -- Faz o log do processo:
