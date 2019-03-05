@@ -11,3 +11,11 @@ Exec [dbo].[Carrega_D_Data]
 
 GO
 Exec [dbo].[Carrega_D_Cliente]
+
+GO
+
+Exec [dbo].[Carrega_D_Geografia]
+
+GO
+
+Exec [dbo].[Carrega_D_Funcionario]
